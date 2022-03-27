@@ -16,5 +16,5 @@ void count_even(int* a, int n)
 int main ()
 {
     int a[] = {1,2,3,4,5,6,7,8,9,10};
-    count_even(a, 5);
+    count_even(a, 6);
 }
