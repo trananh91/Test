@@ -1,0 +1,4 @@
+2. Stack overflow do ham chay vo tan
+3. Stack overflow do ham ko chay den dc base case
+4. Stack overflow khi N=100000
+5. Chuong trinh chay lau hon so voi dung loop
